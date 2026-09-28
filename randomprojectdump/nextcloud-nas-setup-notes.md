@@ -190,9 +190,9 @@ side quest that went nowhere: tried adding a minimal gui (xorg + openbox) to the
 
 ## Architecture note: what's actually containerized
 
-- **Nextcloud** — runs as a snap, not docker
-- **Collabora (office editor)** — runs in a docker container
-- **Tailscale** — installed directly on the OS, not containerized
+- **Nextcloud** - runs as a snap, not docker
+- **Collabora (office editor)** - runs in a docker container
+- **Tailscale** - installed directly on the OS, not containerized
 
 Docker is available for adding more services later same pattern as the collabora run command, just watch for port collisions (nextcloud has 80/443, collabora has 9980).
 
