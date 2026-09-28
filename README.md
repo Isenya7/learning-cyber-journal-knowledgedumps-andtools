@@ -8,5 +8,4 @@ I am done Pre-Security on THM, and half of Cyber101
 
 
 
-I am based in Asia
 Don't know how you found me btw.
